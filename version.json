@@ -1,0 +1,6 @@
+{
+  "code": 18,
+  "name": "0.1.8",
+  "notes": "v0.1.8：家庭记账支持联网同步（配置服务器后家人账目自动互通），新增 App 内检查更新。覆盖安装，数据保留。",
+  "apk": "https://github.com/Bax199/dageiyu-jizhang/releases/download/v0.1.8/dafeiyu-jizhang-v0.1.8-new.apk"
+}
